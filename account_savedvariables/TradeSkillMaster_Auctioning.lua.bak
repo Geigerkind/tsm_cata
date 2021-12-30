@@ -1,0 +1,17 @@
+
+TradeSkillMaster_AuctioningDB = {
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Luckerr - Cata PTR"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Cata PTR"] = {
+			["player"] = {
+				["Luckerr"] = true,
+			},
+		},
+	},
+}

@@ -1,0 +1,10 @@
+
+TradeSkillMaster_AuctionDBDB = {
+	["profileKeys"] = {
+		["Luckerr - Cata PTR"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

@@ -1,0 +1,38 @@
+
+TradeSkillMaster_ItemTrackerDB = {
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Luckerr - Cata PTR"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Cata PTR"] = {
+			["characters"] = {
+				["Luckerr"] = {
+					["mailInbox"] = {
+					},
+					["lastUpdate"] = {
+						["guild"] = 1636283113,
+						["mail"] = 0,
+						["bags"] = 1636283103,
+						["auctions"] = 1636283534,
+						["bank"] = 0,
+					},
+					["mail"] = {
+					},
+					["bags"] = {
+						["item:52219:0:0:0:0:0:0"] = 28,
+						["item:52769:0:0:0:0:0:0"] = 1,
+					},
+					["auctions"] = {
+						["time"] = 1636283534,
+					},
+					["bank"] = {
+					},
+				},
+			},
+		},
+	},
+}
